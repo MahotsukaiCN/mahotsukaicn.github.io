@@ -4,7 +4,7 @@ catalog: true
 date: 2022-09-19 12:34:17
 subtitle: 汉化补丁下载
 lang: cn
-header-img: /img/Mahoyo_Moive.jpg
+banner_img: /img/Mahoyo_Moive.jpg
 tags:
 - 汉化发布
 categories:
