@@ -49,6 +49,9 @@ page.banner_mask_alpha = page.banner_mask_alpha || theme.post.banner_mask_alpha
             <% } %>
             <hr/>
             <div>
+              <a href="https://github.com/MahotsukaiCN/mahotsukaicn.github.io/blob/Origin-Code/source/<%- page.source %>" target="_blank">bianji</a>
+            </div>
+            <div>
               <%- inject_point('postMetaBottom') %>
 
               <%- inject_point('postCopyright') %>
@@ -90,7 +93,6 @@ page.banner_mask_alpha = page.banner_mask_alpha || theme.post.banner_mask_alpha
     </div>
   </div>
 </div>
-
 <%- partial('_partials/markdown-plugins') %>
 
 <% if(theme.post.custom && theme.post.custom.enable && theme.post.custom.content && page.custom !== false) { %>
