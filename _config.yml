@@ -6,14 +6,14 @@
 title: 魔法使之夜重制版-澄空汉化移植发布页
 subtitle: '魔法使之夜重制版-澄空汉化移植'
 description: '魔法使之夜重制版-澄空汉化移植'
-keywords:'魔法使之夜重制版-澄空汉化移植'
+keywords:
 author: letdo1945
 language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://mahotsukaicn.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
