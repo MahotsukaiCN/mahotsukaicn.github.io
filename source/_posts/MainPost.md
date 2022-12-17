@@ -4,7 +4,7 @@ catalog: true
 date: 2022-09-18 12:34:17
 subtitle: 汉化简介以及相关公告
 lang: cn
-banner-img: /img/Mahoyo_Moive.jpg
+banner_img: /img/Mahoyo_Moive.jpg
 tags:
 - 汉化简介
 categories:
